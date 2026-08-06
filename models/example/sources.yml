@@ -2,7 +2,7 @@ version : 2
 sources:
   - name: raw_data
     description: "A source for raw data"
-    schema: raw_data
+    schema: raw
     tables:
       - name: customers
       - name: orders
